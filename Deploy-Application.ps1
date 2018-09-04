@@ -66,7 +66,7 @@ Try {
 	##*===============================================
 	## Variables: Application
 	[string]$appVendor = 'Valusoft'
-	[string]$appName = 'MasterBook'
+	[string]$appName = 'MasterCook'
 	[string]$appVersion = '11'
 	[string]$appArch = ''
 	[string]$appLang = 'EN'
